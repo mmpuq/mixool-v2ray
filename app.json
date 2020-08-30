@@ -5,14 +5,14 @@
     "env": {
         "UUID": {
             "description": "v2ray UUID",
-            "value": "8f91b6a0-e8ee-11ea-adc1-0242ac120002"
+            "value": "7ba9fc65-5420-4e98-931c-97d8fda8fcd0"
         },
         "WSPATH": {
             "description": "websockets path",
             "value": "/"        
         }
     },
-    "website": "https://github.com/mixool/v2ray",
-    "repository": "https://github.com/mixool/v2ray",
+    "website": "https://github.com/mmpuq/mixool-v2ray",
+    "repository": "https://github.com/mmpuq/mixool-v2ray",
     "stack": "container"
 }
